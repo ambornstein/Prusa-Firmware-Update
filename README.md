@@ -1,5 +1,5 @@
 # Prusa-Firmware-Update
-Made on Python 3.7.4 64-bit
+Made on Python 3.7.4 64-bit | Windows 10
 By Andrei Bornstein
 1/13/2021 (last revision: 4/22/2021)
 Execution Prerequisites:
